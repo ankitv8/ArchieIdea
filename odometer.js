@@ -1,5 +1,4 @@
-/* ===( Build By : CODE AASHU )=== */
-/*! odometer 0.4.6 */
+
 (function () {
   var a,
     b,
@@ -673,4 +672,3 @@
       ? (module.exports = m)
       : (window.Odometer = m);
 }).call(this);
-/* ===( Build By : CODE AASHU )=== */

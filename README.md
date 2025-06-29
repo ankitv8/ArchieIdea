@@ -6,7 +6,7 @@
 
 ### 🔸TechStack 👉🏻 HTML - CSS - JavaScript - Bootstrap - Odometer
 
-### 🔸LOC ( line Of Code ) 👉🏻 " HTML - 406 " , " CSS - 8423 " , " JavaScript - 1693 "
+### 🔸LOC ( line Of Code ) 👉🏻 " HTML - 402 " , " CSS - 8423 " , " JavaScript - 1693 "
 
 ### 🔸Design 👉🏻 Figma & Pinterest
 

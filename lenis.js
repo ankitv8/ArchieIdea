@@ -1,4 +1,3 @@
-/* ===( Build By : CODE AASHU )=== */
 var t, e;
 (t = this),
   (e = function () {
@@ -582,4 +581,3 @@ var t, e;
     ? define(e)
     : ((t = "undefined" != typeof globalThis ? globalThis : t || self).Lenis =
         e());
-/* ===( Build By : CODE AASHU )=== */
