@@ -1,0 +1,13 @@
+{
+  "name": "visionary-architects",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <h1>Visionary Architects</h1>\r   <h3>A Modern 🚀 Responsive Website Design of Architects Company \" Visionary Architects \" who achieve mystery in the Architects design &amp; creating environments where innovation meets tradition, and their design transcend imagination...</h3>\r </div>",
+  "main": "lenis.js",
+  "scripts": {
+    "dev":"vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
